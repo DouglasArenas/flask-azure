@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  flaskapp:
+    image: flaskapp:1.0.0
+    restart: always
